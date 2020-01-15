@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="10" height="5" tilewidth="8" tileheight="8" nextobjectid="1">
+ <tileset firstgid="1" name="todosTiles" tilewidth="8" tileheight="8" tilecount="81" columns="9">
+  <image source="tiles.png" width="72" height="72"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="10" height="5">
+  <data encoding="csv">
+73,74,74,74,74,74,74,74,74,75,
+76,81,81,81,81,81,81,81,81,77,
+78,79,79,79,79,79,79,79,79,80,
+73,74,75,73,74,74,75,73,74,75,
+76,81,77,76,81,81,77,76,81,77
+</data>
+ </layer>
+</map>

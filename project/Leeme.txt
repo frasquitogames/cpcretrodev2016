@@ -1,0 +1,58 @@
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+
+	##  ##  ######  ######  ##  ######  ##  ##  ####    ######
+	##  ##  ##  ##  ##      ##  ##      ### ##  ##  ##  ##  ##
+	######  ######  ##      ##  ####    ## ###  ##  ##  ##  ##
+	##  ##  ##  ##  ##      ##  ##      ##  ##  ##  ##  ##  ##
+	##  ##  ##  ##  ######  ##  ######  ##  ##  ####    ######
+										  ##
+	                                ######  ######  ##  ##  ######  ######  ##  ##  ######
+					##      ##  ##  ######  ##  ##  ##  ##  ### ##  ##  ##
+		    		        ##      ######  ##  ##  ######  ######  ## ###  ######
+					##      ##  ##  ##  ##  ##      ##  ##  ##  ##  ##  ##
+					######  ##  ##  ##  ##  ##      ##  ##  ##  ##  ##  ##
+								  
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+	
+	Haciendo campaña: Videojuego para Amstrad CPC 464
+
+	[!] Para compilar el codigo fuente, abrir un terminal escribir:
+		make
+
+	La licencia se encuentra en el archivo LICENSE.
+
+	Este videojuego ha sido desarrollado expresamente para el CPCRetroDev Contest 2016.
+		· http://cpcretrodev.byterealms.com/
+
+	Cualquier duda, incidencia o recomendación es bien recibida. Más abajo se encuentra
+	nuestra información de contacto.
+
+
+	Desarrollado por CocoTeam:
+	
+	- Rubén Rodríguez Pardo // twitter -> @iRuBi_Rp  Email -> rubi_almansa@hotmail.com
+	- Miguel Ángel García Honrubia // twitter -> @Almiso9 Email -> almihonrubia@gmail.com
+	- Haciendo campaña // twitter -> @H_Campanya
+		
+	Contenido:
+	
+	Todo el contenido ha sido producido exclusivamente por nosotros.
+	
+
+	Software empleado:
+
+	- CPCtelera 1.2.3 (CPC Game Engine)
+		. Desarrollado por ronaldo (Francisco Gallego)
+		. https://github.com/lronaldo/cpctelera
+	
+	- Arkos Tracker (Musica)
+		. http://www.cpcwiki.eu/index.php/Arkos_Tracker
+
+	- Adobe photoshop cs6 (Gráficos)
+		. http://www.adobe.com/
+	
+	- Tiled (Mapas)
+		. http://www.mapeditor.org/
+		
